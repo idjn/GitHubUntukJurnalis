@@ -1,5 +1,5 @@
 # GitHub for Journalist
-(Dirangkum dan diterjemahkan dari repository milik @Paulbradshaw
+(Dirangkum dan diterjemahkan dari repository milik @Paulbradshaw)
 
 GitHub adalah jejaring sosial untuk code dan programming: ia bisa digunakan untuk mengikuti akun seseorang, atau proyek tertentu. Secara spesifik, GitHub adalah platform untuk sharing dan berkolaborasi dalam sebuah proyek. 
 
